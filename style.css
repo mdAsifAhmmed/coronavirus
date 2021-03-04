@@ -1,0 +1,48 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: #272c34;
+    font-size: 13px !important;
+}
+h1{
+    color: aliceblue;
+    /* margin: auto; */
+    text-align: center;
+    padding: 50px 0px;
+}
+table{
+    margin:auto;
+    /* border-collapse: collapse;
+    border-color: #eddd;
+    background:skyblue; */
+}
+th{
+    padding:10px 10px ;
+    text-transform: uppercase;
+    background:#20252b;
+    color:rgb(214, 213, 213);
+}
+td{
+    text-align: center;
+    padding:10px 10px;
+    color: aliceblue;
+    border: 1px solid #313842;
+    /* color:slateblue */
+}
+.death{
+    color:aliceblue;
+    background:rgb(47, 136, 114)
+}
+.deaths{
+    color:aliceblue;
+    background:rgb(124, 46, 46)
+}
+.recovered{
+    color: aliceblue;
+    background: #0da319;
+}
+.active{
+    color:aliceblue;
+    background:#af5448;
+}
